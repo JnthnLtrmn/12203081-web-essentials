@@ -1,0 +1,28 @@
+* {
+
+    font-family: Verdana, sans-serif;
+}
+body{
+    background-color: #d9ddd7;
+}
+.pxlhead {
+    color: darkgreen;
+}
+.para {
+    background-color: #6a7689;
+    color: white;
+    padding: 20px;
+}
+#p {
+    background-color: #6a7689;
+    color: yellow;
+    border: 2px solid yellow;/* Je moest nog meegeven wat voor type border*/
+    margin-left: 20%;
+    margin-right: 20%;
+    position: center;
+    text-align: center;
+    padding: 30px;
+}
+a:link{color: white;}
+a:visited{color:white}
+a:hover{color:green}

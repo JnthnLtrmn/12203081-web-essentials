@@ -1,0 +1,67 @@
+body {
+    background-color: #151c28;
+}
+
+h1{
+    color: #ffe14f;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+#div1{
+    border: solid #ffe14f 2px;
+    border-radius: 5px;
+    width: 500px;
+    margin: auto;
+    padding: 25px 25px 2px 1px;
+    text-align: center;
+}
+
+#div2{
+    border: solid #ffe14f 2px;
+    border-radius: 5px;
+    width: 500px;
+    margin: auto;
+    padding: 25px 25px 2px 1px;
+    text-align: center;
+}
+
+#div3{
+    Background-color: #8daec6;
+    border: solid #ffe14f 2px;
+    border-radius: 5px;
+    width: 500px;
+    margin: auto;
+    padding: 25px 25px 2px 1px;
+    text-align: center;
+}
+#div4{
+    border: solid #ffe14f 2px;
+    border-radius: 5px;
+    width: 500px;
+    margin: auto;
+    padding: 25px 25px 2px 1px;
+    text-align: center;
+}
+#ul1{
+    list-style-image: url("red button.png");
+    margin-left: 125px;
+}
+
+#ul2{
+list-style-image: url("gasmask.png");
+    margin-left: 125px;
+}
+
+#ul3{
+
+list-style-image: url("stereo.png");
+    margin-left: 125px;
+    background-color: #8daec6;
+}
+
+#ul4{
+list-style-image: url("drummer.png");
+    margin-left: 125px;
+}

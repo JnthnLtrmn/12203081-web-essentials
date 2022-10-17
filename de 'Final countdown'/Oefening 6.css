@@ -1,0 +1,90 @@
+* {font-family: "Roboto Light", sans-serif;}
+
+body {background-color: slategrey;}
+
+h1 {color: coral;}
+
+h2 {color: white;}
+
+#nav {color: white;
+    margin-left: 70px;}
+
+#nav2 {color: white;}
+
+.festivallinks {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: transparent;
+    border: solid 3px darkgrey;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+
+}
+
+.art1{
+    color: dimgray;
+    border: solid 2px orange;
+    background-color: lightskyblue;
+    margin-top: 20px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+.art2{
+    color: dimgray;
+    border: solid 2px orange;
+    background-color: moccasin;
+    margin-top: 20px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+.art3{
+    color: dimgray;
+    border: solid 2px orange;
+    background-color: pink;
+    margin-top: 20px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+.art4{
+    color: dimgray;
+    border: solid 2px orange;
+    background-color: lightgreen;
+    margin-top: 20px;
+    padding-left: 15px;
+    padding-bottom: 15px;}
+
+.art5{
+    color: dimgray;
+    border: solid 2px orange;
+    background-color: burlywood;
+    margin-top: 20px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+img {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+}
+iframe {
+    width: 900px;
+    height: 400px;
+}
+
+ul{
+    list-style-image: url("audio album doodle.png");
+}
+
+.a{
+    color: dimgray;
+}
+
+a {color: white;}
+a:hover {font-size: large}
+a:hover {color: coral}
+

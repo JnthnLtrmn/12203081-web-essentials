@@ -1,0 +1,37 @@
+table{
+    border-left: solid darkred 5px;
+    border-top: solid darkred 5px;
+    border-right: solid black 5px;
+    border-bottom: solid black 5px;
+    border-collapse: collapse;
+}
+td{
+    border: solid darkred 1px;
+    border-collapse: collapse;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+}
+
+.wit{
+    background-image: url("assets/assets/witte-marmer.jpg");
+}
+.zwart{
+    background-image: url("assets/assets/zwarte-marmer.jpg");
+}
+
+body{
+    background-image: url("assets/assets/hout.jpg");
+}
+
+.tekstvak{
+    border: darkred solid 5px;
+    text-align: center;
+    height: 350px;
+    width: 250px;
+    background-image: url("assets/assets/witte-marmer.jpg");
+    position: relative;
+    display: inline-block;
+    left: 700px;
+    top: -600px;
+}

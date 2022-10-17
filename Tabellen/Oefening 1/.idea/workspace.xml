@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81e7a878-dd92-4e46-9111-aaa392536556" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../de 'Final countdown'/Oefening 6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../de 'Final countdown'/audio album doodle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oefening7/Oefening 7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oefening7/Oefening 7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oefening7/red button.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../de 'Final countdown'/muziek.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../de 'Final countdown'/muziek.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G7pXB9u6qwekS5LMqs92nVZu5I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/12203081/WebstormProjects/Oefeningen/Tabellen/Oefening 1&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81e7a878-dd92-4e46-9111-aaa392536556" name="Changes" comment="" />
+      <created>1665749513994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665749513994</updated>
+      <workItem from="1665749515194" duration="26000" />
+      <workItem from="1665749588797" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

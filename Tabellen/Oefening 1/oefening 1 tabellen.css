@@ -1,0 +1,23 @@
+table, td, th{
+    font-family: "Roboto Light", sans-serif;
+    border: 3px black solid;
+    border-collapse: collapse;
+    table-layout: fixed;
+    text-align: center;
+    color: white;
+    width: 1000px;
+    height: 30px;
+}
+
+
+tr:nth-child(2n+1){
+    background-color: #4f8cef;
+}
+tr:nth-child(2n){
+    background-color: #6facff;
+}
+th{background-color: #27426d
+}
+table{
+    border: #c7ced8 solid 10px;
+}
